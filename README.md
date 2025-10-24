@@ -1,8 +1,16 @@
 # Awesome Astrobiology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> This repository is curated list of awesome resources on astrobiology.
+_A curated list of awesome resources on astrobiology._
 
-_Astrobiology is a remarkably diverse subject whose main objective is to investigate and understand the phenomenon of life in its cosmic context. Astrobiology might be said to address at least four large-scale questions: How did life originate and diversify on Earth? How does life co-evolve with a planet? Does life exist beyond Earth? What is the future of life on Earth and its capacity to move beyond the home planet?_
+<details markdown=1>
+
+<summary> Definition From Wikipedia </summary>
+
+> **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2) [^wikipedia_citation]
+
+[^wikipedia_citation]: Wikipedia contributors. "Astrobiology." Wikipedia. Last modified October 20, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Astrobiology>.
+
+</details>
 
 ## Contents
 
@@ -44,6 +52,13 @@ _Astrobiology is a remarkably diverse subject whose main objective is to investi
 - [International Society for the Study of the Origin of Life (ISSOL) Conference](https://issol.org/): Triennial conference on origins of life research.
 
 ## Organizations
+
+### GitHub Organizations
+
+- [UCBerkeleySETI](https://github.com/UCBerkeleySETI): UC Berkeley SETI Research Center repositories.
+- [Virtual Planetary Laboratory](https://github.com/VirtualPlanetaryLaboratory): Tools for exoplanet modeling and biosignatures.
+
+### Other Organizations
 
 - [NASA Astrobiology Institute](https://astrobiology.nasa.gov/): Leading astrobiology research organization.
 - [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence and astrobiology.
