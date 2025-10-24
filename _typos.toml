@@ -12,6 +12,7 @@ O957 = "O957"
 dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
+Winn = "Winn"
 
 [files]
 extend-exclude = [
