@@ -35,6 +35,14 @@ _Astrobiology is a remarkably diverse subject whose main objective is to investi
 - [Origins of Life and Evolution of Biospheres](https://www.springer.com/journal/11084): Origins of life research.
 - [Life](https://www.mdpi.com/journal/life): Open access journal covering life sciences and astrobiology.
 
+## Conferences
+
+- [Astrobiology Science Conference (AbSciCon)](https://www.agu.org/abscicon): NASA's major astrobiology conference held biennially.
+- [European Astrobiology Network Association (EANA) Conference](https://www.eana-net.eu/): Annual European astrobiology meeting.
+- [Astrobiology Graduate Conference (AbGradCon)](https://abgradcon.org/): Annual student-organized astrobiology conference.
+- [Gordon Research Conference on Origins of Life](https://www.grc.org/): Biennial meeting on life's origins.
+- [International Society for the Study of the Origin of Life (ISSOL) Conference](https://issol.org/): Triennial conference on origins of life research.
+
 ## Organizations
 
 - [NASA Astrobiology Institute](https://astrobiology.nasa.gov/): Leading astrobiology research organization.
