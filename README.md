@@ -6,7 +6,7 @@ _A curated list of awesome resources on astrobiology._
 
 <summary> Definition From Wikipedia </summary>
 
-> **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2) [^wikipedia_citation]
+> **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] [^wikipedia_citation]
 
 [^wikipedia_citation]: Wikipedia contributors. "Astrobiology." Wikipedia. Last modified October 20, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Astrobiology>.
 
