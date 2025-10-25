@@ -12,6 +12,8 @@ _A curated list of awesome resources on astrobiology._
 
 </details>
 
+![](./assets/astrobiology.jpg)
+
 ## Contents
 
 - [Books](#books)
@@ -68,15 +70,7 @@ _A curated list of awesome resources on astrobiology._
 
 ## Researchers
 
-- [Jennifer Doudna](https://doudnalab.org/): CRISPR pioneer and biochemist at UC Berkeley.
-- [Sara Seager](https://eapsweb.mit.edu/people/seager): MIT planetary scientist studying exoplanet atmospheres and biosignatures.
-- [Jack Szostak](https://szostak.med.harvard.edu/): Nobel laureate studying origins of life and protocells.
-- [Nick Lane](https://www.ucl.ac.uk/biosciences/people/prof-nick-lane): UCL biochemist researching bioenergetics and life's origins.
-- [Dimitar Sasselov](https://www.cfa.harvard.edu/~sasselov/): Harvard astronomer studying rocky planet formation and habitability.
-- [Victoria Meadows](https://depts.washington.edu/naivpl/content/victoria-meadows): UW director of Virtual Planetary Laboratory studying biosignatures.
-- [Jill Tarter](https://www.seti.org/our-scientists/jill-tarter): SETI Institute astronomer leading search for extraterrestrial intelligence.
-- [Chris McKay](https://www.nasa.gov/people/christopher-mckay/): NASA astrobiologist studying Mars and Titan habitability.
-- [David Grinspoon](https://www.davidgrinspoon.com/): Planetary scientist and astrobiologist studying Venus and comparative planetology.
+- [Rory Barnes](https://github.com/RoryBarnes): UW Associate Professor of Astronomy and Astrobiology; creator of VPLanet.
 
 ## Courses
 
