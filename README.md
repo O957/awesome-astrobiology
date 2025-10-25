@@ -6,13 +6,19 @@ _A curated list of awesome resources on astrobiology._
 
 <summary> Definition From Wikipedia </summary>
 
-> **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] [^wikipedia_citation]
+> **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] As a discipline, astrobiology is founded on the premise that life may exist beyond Earth. [[3](https://en.wikipedia.org/wiki/Astrobiology#cite_note-3)]
+>
+> Research in astrobiology comprises three main areas: the study of [habitable environments](https://en.wikipedia.org/wiki/Planetary_habitability "Planetary habitability") in the [Solar System](https://en.wikipedia.org/wiki/Solar_System "Solar System") and beyond, the search for planetary [biosignatures](https://en.wikipedia.org/wiki/Biosignatures "Biosignatures") of past or present extraterrestrial life, and the study of the [origin](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis") and [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell") of life on Earth.
+>
+> The field of astrobiology has its origins in the 20th century with the advent of [space exploration](https://en.wikipedia.org/wiki/Space_exploration "Space exploration") and the discovery of [exoplanets](https://en.wikipedia.org/wiki/Exoplanets "Exoplanets"). Early astrobiology research focused on the search for extraterrestrial life and the study of the potential for life to exist on other planets. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] In the 1960s and 1970s, NASA began its astrobiology pursuits within the [Viking program](https://en.wikipedia.org/wiki/Viking_program "Viking program"), which was the first US mission to land on Mars and search for [signs of life](https://en.wikipedia.org/wiki/Viking_biological_experiments "Viking biological experiments"). [[4](https://en.wikipedia.org/wiki/Astrobiology#cite_note-4)] This mission, along with other early space exploration missions, laid the foundation for the development of astrobiology as a discipline. [^wikipedia_citation]
 
 [^wikipedia_citation]: Wikipedia contributors. "Astrobiology." Wikipedia. Last modified October 20, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Astrobiology>.
 
 </details>
 
-![](./assets/astrobiology.jpg)
+![](./assets/astrobiology.jpg) [^image_attribution]
+
+[^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/a-red-crab-crawling-in-the-sand-hapGkr3_-Lo>. Image Description: "a red crab crawling in the sand". Image Photographer: [Ryan Le](https://unsplash.com/@ryan_le).
 
 ## Contents
 
