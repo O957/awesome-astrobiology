@@ -34,6 +34,7 @@ _A curated list of awesome resources on astrobiology._
 - [Software](#software)
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
+- [Contribution](#contribution)
 
 ## Books
 
@@ -136,6 +137,10 @@ _A curated list of awesome resources on astrobiology._
 - [NASA Astrobiology Education](https://astrobiology.nasa.gov/education/): Educational materials and resources.
 - [SETI Institute Courses](https://www.seti.org/education): Online courses and lectures.
 - [Coursera Astrobiology](https://www.coursera.org/learn/astrobiology): Online course from University of Edinburgh.
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
