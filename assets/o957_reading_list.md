@@ -1,0 +1,32 @@
+# O957's Reading List - Astrobiology
+
+- [The RNA World](https://www.cshl.edu/rna-world/): Gesteland, Cech, and Atkins on early evolution.
+- [Prebiotic Chemistry and the Origin of the RNA World](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693790/): Orgel review.
+- [Hydrothermal Vents and the Origin of Life](https://www.nature.com/articles/nrmicro1991): Martin et al. on alkaline vent theory.
+- [The Energetics of Genome Complexity](https://www.nature.com/articles/nature09486): Lane and Martin on eukaryogenesis.
+- [Protocells and RNA Self-Replication](https://www.cshl.edu/cold-spring-harbor-perspectives-in-biology/): Szostak review.
+- [Microbial Limits to Temperature in Yellowstone](https://www.science.org/doi/10.1126/science.1067795): Rothschild and Mancinelli on extreme environments.
+- [Life at Low Temperatures](https://journals.asm.org/doi/10.1128/mmbr.00006-10): D'Amico et al. on psychrophiles.
+- [Perchlorate on Mars](https://www.science.org/doi/10.1126/science.1150690): Phoenix lander results.
+- [Limits of Organic Life in Planetary Systems](https://www.nap.edu/catalog/11919/the-limits-of-organic-life-in-planetary-systems): NRC report on weird life.
+- [Habitable Zones Around Main Sequence Stars](https://ui.adsabs.harvard.edu/abs/1993Icar..101..108K/abstract): Kasting et al. classical habitable zone.
+- [A Revised, Hotter Curve for Mars](https://www.liebertpub.com/doi/10.1089/ast.2020.2268): Updated Mars habitability.
+- [Ocean Worlds of the Outer Solar System](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JE005737): Cable et al. on icy moons.
+- [Atmospheric Biosignatures](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082214-122238): Seager et al. review.
+- [Biosignature False Positives](https://www.liebertpub.com/doi/10.1089/ast.2014.1231): Meadows review of abiotic mimics.
+- [Oxygenic Photosynthesis as a Biosignature](https://www.liebertpub.com/doi/10.1089/ast.2017.1729): Schwieterman et al. on O2 and O3.
+- [Phosphine on Venus](https://www.nature.com/articles/s41550-020-1174-4): Greaves et al. controversial detection.
+- [Statistics of Exoplanet Atmospheres](https://iopscience.iop.org/article/10.3847/1538-3881/ab9225): Bean et al. survey.
+- [The Occurrence of Rocky Habitable Zone Planets](https://www.pnas.org/doi/10.1073/pnas.1304196110): Petigura et al. on eta-Earth.
+- [TRAPPIST-1 System](https://www.nature.com/articles/nature21360): Gillon et al. on seven-planet system.
+- [Exoplanet Atmospheres](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-081817-051846): Madhusudhan review.
+- [JWST Observations of Exoplanet Atmospheres](https://www.nature.com/articles/s41586-022-05269-w): Early JWST results.
+- [Mars Science Laboratory Mission and Science](https://link.springer.com/article/10.1007/s11214-012-9892-2): Grotzinger et al. on Curiosity.
+- [Europa Clipper Mission Concept](https://link.springer.com/article/10.1007/s11214-021-00849-9): Pappalardo et al. overview.
+- [Dragonfly: Exploring Titan's Prebiotic Chemistry](https://www.hou.usra.edu/meetings/lpsc2018/pdf/1958.pdf): Lorenz et al. on Titan mission.
+- [JUICE: JUpiter ICy moons Explorer](https://link.springer.com/article/10.1007/s11214-021-00801-x): Grasset et al. mission overview.
+- [The Search for Extraterrestrial Intelligence](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-081710-102558): Tarter review.
+- [Optical SETI](https://iopscience.iop.org/article/10.1086/316273): Howard et al. on laser searches.
+- [Breakthrough Listen](https://iopscience.iop.org/article/10.1088/0004-637X/802/2/86): Isaacson et al. on radio SETI.
+- [Technosignatures](https://www.liebertpub.com/doi/10.1089/ast.2019.2128): Wright et al. review of detection strategies.
+- [Dyson Spheres and Waste Heat](https://iopscience.iop.org/article/10.3847/0004-637X/816/1/17): Wright et al. infrared searches.
