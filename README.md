@@ -20,6 +20,10 @@ _A curated list of awesome resources on astrobiology._
 
 [^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/a-red-crab-crawling-in-the-sand-hapGkr3_-Lo>. Image Description: "a red crab crawling in the sand". Image Photographer: [Ryan Le](https://unsplash.com/@ryan_le).
 
+> [!NOTE]
+>
+> This list follows specific scoping guidelines. The **Books** section primarily contains textbooks. **Organizations** is divided into GitHub organizations and non-GitHub organizations. **Researchers** exclusively features researcher GitHub profiles. A **Reading Lists** section was chosen over individual papers, as managing the volume of papers on the topic at hand in a single list in untenable. **Repositories** targets larger work on GitHub and excludes, for example, standalone code for papers. **Datasets** includes only publicly accessible data. **Software** features notable tools, libraries, and frameworks not available on GitHub. **Websites** covers informational sites, news sources, and community hubs. **Educational Resources** includes tutorials, videos, and other learning materials.
+
 ## Contents
 
 - [Books](#books)
@@ -35,108 +39,109 @@ _A curated list of awesome resources on astrobiology._
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
 - [Contribution](#contribution)
+- [License](#license)
 
 ## Books
 
-- [Astrobiology: A Very Short Introduction](https://global.oup.com/academic/product/astrobiology-a-very-short-introduction-9780198722762): David Catling's accessible overview.
-- [Life in the Universe](https://www.pearson.com/us/higher-education/program/Bennett-Life-in-the-Universe-4th-Edition/PGM1882320.html): Bennett and Shostak comprehensive textbook.
-- [An Introduction to Astrobiology](https://www.cambridge.org/core/books/introduction-to-astrobiology/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Iain Gilmour and Mark Sephton editors.
-- [The Vital Question: Energy, Evolution, and the Origins of Complex Life](https://www.amazon.com/Vital-Question-Evolution-Origins-Complex/dp/0393352978): Nick Lane on bioenergetics and evolution.
-- [Life's Solution: Inevitable Humans in a Lonely Universe](https://www.cambridge.org/core/books/lifes-solution/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Simon Conway Morris on convergent evolution.
-- [Rare Earth: Why Complex Life Is Uncommon in the Universe](https://www.springer.com/gp/book/9780387952895): Ward and Brownlee hypothesis.
+1. [Astrobiology: A Very Short Introduction](https://global.oup.com/academic/product/astrobiology-a-very-short-introduction-9780198722762): David Catling's accessible overview.
+2. [Life in the Universe](https://www.pearson.com/us/higher-education/program/Bennett-Life-in-the-Universe-4th-Edition/PGM1882320.html): Bennett and Shostak comprehensive textbook.
+3. [An Introduction to Astrobiology](https://www.cambridge.org/core/books/introduction-to-astrobiology/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Iain Gilmour and Mark Sephton editors.
+4. [The Vital Question: Energy, Evolution, and the Origins of Complex Life](https://www.amazon.com/Vital-Question-Evolution-Origins-Complex/dp/0393352978): Nick Lane on bioenergetics and evolution.
+5. [Life's Solution: Inevitable Humans in a Lonely Universe](https://www.cambridge.org/core/books/lifes-solution/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Simon Conway Morris on convergent evolution.
+6. [Rare Earth: Why Complex Life Is Uncommon in the Universe](https://www.springer.com/gp/book/9780387952895): Ward and Brownlee hypothesis.
 
 ## Journals
 
-- [Astrobiology](https://www.liebertpub.com/journal/ast): Premier journal for astrobiology research.
-- [International Journal of Astrobiology](https://www.cambridge.org/core/journals/international-journal-of-astrobiology): Multidisciplinary astrobiology journal.
-- [Origins of Life and Evolution of Biospheres](https://www.springer.com/journal/11084): Origins of life research.
-- [Life](https://www.mdpi.com/journal/life): Open access journal covering life sciences and astrobiology.
+1. [Astrobiology](https://www.liebertpub.com/journal/ast): Premier journal for astrobiology research.
+2. [International Journal of Astrobiology](https://www.cambridge.org/core/journals/international-journal-of-astrobiology): Multidisciplinary astrobiology journal.
+3. [Origins of Life and Evolution of Biospheres](https://www.springer.com/journal/11084): Origins of life research.
+4. [Life](https://www.mdpi.com/journal/life): Open access journal covering life sciences and astrobiology.
 
 ## Conferences
 
-- [Astrobiology Science Conference (AbSciCon)](https://www.agu.org/abscicon): NASA's major astrobiology conference held biennially.
-- [European Astrobiology Network Association (EANA) Conference](https://www.eana-net.eu/): Annual European astrobiology meeting.
-- [Astrobiology Graduate Conference (AbGradCon)](https://abgradcon.org/): Annual student-organized astrobiology conference.
-- [Gordon Research Conference on Origins of Life](https://www.grc.org/): Biennial meeting on life's origins.
-- [International Society for the Study of the Origin of Life (ISSOL) Conference](https://issol.org/): Triennial conference on origins of life research.
+1. [Astrobiology Science Conference (AbSciCon)](https://www.agu.org/abscicon): NASA's major astrobiology conference held biennially.
+2. [European Astrobiology Network Association (EANA) Conference](https://www.eana-net.eu/): Annual European astrobiology meeting.
+3. [Astrobiology Graduate Conference (AbGradCon)](https://abgradcon.org/): Annual student-organized astrobiology conference.
+4. [Gordon Research Conference on Origins of Life](https://www.grc.org/): Biennial meeting on life's origins.
+5. [International Society for the Study of the Origin of Life (ISSOL) Conference](https://issol.org/): Triennial conference on origins of life research.
 
 ## Organizations
 
 ### GitHub Organizations
 
-- [UCBerkeleySETI](https://github.com/UCBerkeleySETI): UC Berkeley SETI Research Center repositories.
-- [Virtual Planetary Laboratory](https://github.com/VirtualPlanetaryLaboratory): Tools for exoplanet modeling and biosignatures.
+1. [UCBerkeleySETI](https://github.com/UCBerkeleySETI): UC Berkeley SETI Research Center repositories.
+2. [Virtual Planetary Laboratory](https://github.com/VirtualPlanetaryLaboratory): Tools for exoplanet modeling and biosignatures.
 
 ### Other Organizations
 
-- [NASA Astrobiology Institute](https://astrobiology.nasa.gov/): Leading astrobiology research organization.
-- [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence and astrobiology.
-- [European Astrobiology Network Association (EANA)](https://www.eana-net.eu/): European astrobiology community.
-- [AbGradCon](https://abgradcon.org/): Astrobiology Graduate Conference community.
-- [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/): Multidisciplinary astrobiology research.
+1. [NASA Astrobiology Institute](https://astrobiology.nasa.gov/): Leading astrobiology research organization.
+2. [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence and astrobiology.
+3. [European Astrobiology Network Association (EANA)](https://www.eana-net.eu/): European astrobiology community.
+4. [AbGradCon](https://abgradcon.org/): Astrobiology Graduate Conference community.
+5. [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/): Multidisciplinary astrobiology research.
 
 ## Researchers
 
-- [Rory Barnes](https://github.com/RoryBarnes): UW Associate Professor of Astronomy and Astrobiology; creator of VPLanet.
+1. [Rory Barnes](https://github.com/RoryBarnes): UW Associate Professor of Astronomy and Astrobiology; creator of VPLanet.
 
 ## Courses
 
-- [Astrobiology and the Search for Extraterrestrial Life (Coursera)](https://www.coursera.org/learn/astrobiology): University of Edinburgh course covering astrobiology fundamentals.
-- [Introduction to Astrobiology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/): Free MIT biology course covering origins of life.
-- [Astrobiology: Exploring Other Worlds (Coursera)](https://www.coursera.org/learn/astrobiology-exploring-other-worlds): University of Arizona course on planetary habitability.
-- [Imagining Other Earths (Princeton/Coursera)](https://www.coursera.org/learn/life-on-other-planets): Princeton course on exoplanets and life detection.
-- [The Search for Exoplanets: What Astronomers Know (Great Courses)](https://www.thegreatcourses.com/courses/search-for-exoplanets-what-astronomers-know): Joshua Winn's comprehensive exoplanet course.
+1. [Astrobiology and the Search for Extraterrestrial Life (Coursera)](https://www.coursera.org/learn/astrobiology): University of Edinburgh course covering astrobiology fundamentals.
+2. [Introduction to Astrobiology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/): Free MIT biology course covering origins of life.
+3. [Astrobiology: Exploring Other Worlds (Coursera)](https://www.coursera.org/learn/astrobiology-exploring-other-worlds): University of Arizona course on planetary habitability.
+4. [Imagining Other Earths (Princeton/Coursera)](https://www.coursera.org/learn/life-on-other-planets): Princeton course on exoplanets and life detection.
+5. [The Search for Exoplanets: What Astronomers Know (Great Courses)](https://www.thegreatcourses.com/courses/search-for-exoplanets-what-astronomers-know): Joshua Winn's comprehensive exoplanet course.
 
 ## Reading Lists
 
-- [O957's Papers](assets/o957_reading_list.md)
+1. [O957's Papers](assets/o957_reading_list.md)
 
 ## Repositories
 
-- [prebiotic-chemistry](https://github.com/nkodani/prebiotic-chemistry): Computational models of prebiotic reactions.
-- [origin-of-life-models](https://github.com/syntheticbiology/origin-models): Simulations of early replicators.
-- [extremophile-db](https://github.com/lifewatch/extremophile-database): Database of extremophilic organisms.
-- [habitability-models](https://github.com/astrobiology/habitability): Models of life under extreme conditions.
-- [HabitablePlanet](https://github.com/rodluger/habitableplanet): Python tools for habitability calculations.
-- [VPLANET](https://github.com/VirtualPlanetaryLaboratory/vplanet): Virtual planetary evolution model.
-- [clima](https://github.com/Nicholaswogan/clima): Python climate model for rocky planets.
-- [coronagraph](https://github.com/jlustigy/coronagraph): Exoplanet direct imaging simulator.
-- [PSG](https://psg.gsfc.nasa.gov/): Planetary Spectrum Generator for atmospheric modeling.
-- [petitRADTRANS](https://github.com/jovian-explorer/petitRADTRANS): Radiative transfer for exoplanet atmospheres.
-- [exoplanet](https://github.com/exoplanet-dev/exoplanet): Probabilistic modeling of exoplanet data.
-- [BATMAN](https://github.com/lkreidberg/batman): Fast transit light curve modeling.
-- [allesfitter](https://github.com/MNGuenther/allesfitter): Exoplanet characterization from photometry and RV.
-- [juliet](https://github.com/nespinoza/juliet): Transiting and non-transiting exoplanetary systems.
-- [mars-rover-autonomy](https://github.com/nasa/mars-rover): Autonomous navigation for Mars rovers.
-- [astrobiology-instruments](https://github.com/nasa/astrobiology-tools): Data processing for astrobiology instruments.
-- [breakthrough-listen](https://github.com/UCBerkeleySETI/breakthrough): Data processing for SETI observations.
-- [turboSETI](https://github.com/UCBerkeleySETI/turbo_seti): Search for narrow-band signals.
-- [setigen](https://github.com/bbrzycki/setigen): Synthetic signal generator for SETI.
+1. [prebiotic-chemistry](https://github.com/nkodani/prebiotic-chemistry): Computational models of prebiotic reactions.
+2. [origin-of-life-models](https://github.com/syntheticbiology/origin-models): Simulations of early replicators.
+3. [extremophile-db](https://github.com/lifewatch/extremophile-database): Database of extremophilic organisms.
+4. [habitability-models](https://github.com/astrobiology/habitability): Models of life under extreme conditions.
+5. [HabitablePlanet](https://github.com/rodluger/habitableplanet): Python tools for habitability calculations.
+6. [VPLANET](https://github.com/VirtualPlanetaryLaboratory/vplanet): Virtual planetary evolution model.
+7. [clima](https://github.com/Nicholaswogan/clima): Python climate model for rocky planets.
+8. [coronagraph](https://github.com/jlustigy/coronagraph): Exoplanet direct imaging simulator.
+9. [PSG](https://psg.gsfc.nasa.gov/): Planetary Spectrum Generator for atmospheric modeling.
+10. [petitRADTRANS](https://github.com/jovian-explorer/petitRADTRANS): Radiative transfer for exoplanet atmospheres.
+11. [exoplanet](https://github.com/exoplanet-dev/exoplanet): Probabilistic modeling of exoplanet data.
+12. [BATMAN](https://github.com/lkreidberg/batman): Fast transit light curve modeling.
+13. [allesfitter](https://github.com/MNGuenther/allesfitter): Exoplanet characterization from photometry and RV.
+14. [juliet](https://github.com/nespinoza/juliet): Transiting and non-transiting exoplanetary systems.
+15. [mars-rover-autonomy](https://github.com/nasa/mars-rover): Autonomous navigation for Mars rovers.
+16. [astrobiology-instruments](https://github.com/nasa/astrobiology-tools): Data processing for astrobiology instruments.
+17. [breakthrough-listen](https://github.com/UCBerkeleySETI/breakthrough): Data processing for SETI observations.
+18. [turboSETI](https://github.com/UCBerkeleySETI/turbo_seti): Search for narrow-band signals.
+19. [setigen](https://github.com/bbrzycki/setigen): Synthetic signal generator for SETI.
 
 ## Software
 
-- [astropy](https://www.astropy.org/): Python library for astronomy.
-- [PyMC3](https://docs.pymc.io/): Probabilistic programming for Bayesian analysis.
-- [emcee](https://emcee.readthedocs.io/): MCMC sampler for parameter estimation.
-- [corner.py](https://corner.readthedocs.io/): Visualization of parameter distributions.
-- [REBOUND](https://github.com/hannorein/rebound): N-body orbital dynamics simulator.
+1. [astropy](https://www.astropy.org/): Python library for astronomy.
+2. [PyMC3](https://docs.pymc.io/): Probabilistic programming for Bayesian analysis.
+3. [emcee](https://emcee.readthedocs.io/): MCMC sampler for parameter estimation.
+4. [corner.py](https://corner.readthedocs.io/): Visualization of parameter distributions.
+5. [REBOUND](https://github.com/hannorein/rebound): N-body orbital dynamics simulator.
 
 ## Datasets
 
-- [exoplanet.eu](http://exoplanet.eu/): Exoplanet encyclopedia and database.
-- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/): Exoplanet data and tools.
+1. [exoplanet.eu](http://exoplanet.eu/): Exoplanet encyclopedia and database.
+2. [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/): Exoplanet data and tools.
 
 ## Websites
 
-- [NASA Astrobiology](https://astrobiology.nasa.gov/): Leading astrobiology research and education.
-- [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence research.
-- [Astrobiology Web](http://www.astrobiology.com/): News and educational content.
+1. [NASA Astrobiology](https://astrobiology.nasa.gov/): Leading astrobiology research and education.
+2. [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence research.
+3. [Astrobiology Web](http://www.astrobiology.com/): News and educational content.
 
 ## Educational Resources
 
-- [NASA Astrobiology Education](https://astrobiology.nasa.gov/education/): Educational materials and resources.
-- [SETI Institute Courses](https://www.seti.org/education): Online courses and lectures.
-- [Coursera Astrobiology](https://www.coursera.org/learn/astrobiology): Online course from University of Edinburgh.
+1. [NASA Astrobiology Education](https://astrobiology.nasa.gov/education/): Educational materials and resources.
+2. [SETI Institute Courses](https://www.seti.org/education): Online courses and lectures.
+3. [Coursera Astrobiology](https://www.coursera.org/learn/astrobiology): Online course from University of Edinburgh.
 
 ## Contribution
 
