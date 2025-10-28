@@ -13,6 +13,7 @@ dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
 Winn = "Winn"
+Youn = "Youn"
 
 [files]
 extend-exclude = [
