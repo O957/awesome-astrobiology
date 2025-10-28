@@ -83,6 +83,7 @@ _A curated list of awesome resources on astrobiology._
 ## Researchers
 
 1. [Rory Barnes](https://github.com/RoryBarnes): UW Associate Professor of Astronomy and Astrobiology; creator of VPLanet.
+2. ...
 
 ## Courses
 
