@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:32:38
+================================================================================
+
+1. Life in extreme environments
+   Authors: Lynn J. Rothschild, Rocco L. Mancinelli
+   Year: 2001
+   Citations: 2150
+   Source: Nature
+   DOI: https://doi.org/10.1038/35059215
+   URL: https://doi.org/10.1038/35059215
+   Open Access: No
+
+2. Microbial seed banks: the ecological and evolutionary implications of dormancy
+   Authors: Jay T. Lennon, Stuart Jones
+   Year: 2011
+   Citations: 1749
+   Source: Nature Reviews Microbiology
+   DOI: https://doi.org/10.1038/nrmicro2504
+   URL: https://doi.org/10.1038/nrmicro2504
+   Open Access: No
+
+3. The snowball Earth hypothesis: testing the limits of global change
+   Authors: Paul F. Hoffman, Daniel P. Schrag
+   Year: 2002
+   Citations: 1569
+   Source: Terra Nova
+   DOI: https://doi.org/10.1046/j.1365-3121.2002.00408.x
+   URL: https://doi.org/10.1046/j.1365-3121.2002.00408.x
+   Open Access: Yes
+
+4. Proterozoic Ocean Chemistry and Evolution: A Bioinorganic Bridge?
+   Authors: Ariel D. Anbar, Andrew H. Knoll
+   Year: 2002
+   Citations: 1154
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1069651
+   URL: https://doi.org/10.1126/science.1069651
+   Open Access: Yes
+
+5. 1. The power of databases: The RRUFF project
+   Authors: B. Lafuente, R. T. Downs, Heng‐Li Yang, N. Stone
+   Year: 2015
+   Citations: 1111
+   Source: De Gruyter eBooks
+   DOI: https://doi.org/10.1515/9783110417104-003
+   URL: https://doi.org/10.1515/9783110417104-003
+   Open Access: No
+
+6. The Square Kilometre Array
+   Authors: P. E. Dewdney, Peter J. Hall, R. T. Schilizzi, T.J.L.W. Lazio
+   Year: 2009
+   Citations: 1070
+   Source: Proceedings of the IEEE
+   DOI: https://doi.org/10.1109/jproc.2009.2021005
+   URL: https://doi.org/10.1109/jproc.2009.2021005
+   Open Access: No
+
+7. Tracing the stepwise oxygenation of the Proterozoic ocean
+   Authors: C. Scott, Timothy W. Lyons, Andrey Bekker, Yanan Shen, Simon W. Poulton
+   Year: 2008
+   Citations: 1040
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature06811
+   URL: https://doi.org/10.1038/nature06811
+   Open Access: No
+
+8. Prokaryotic Evolution in Light of Gene Transfer
+   Authors: J. Peter Gogarten, W. Ford Doolittle, Jeffrey G. Lawrence
+   Year: 2002
+   Citations: 976
+   Source: Molecular Biology and Evolution
+   DOI: https://doi.org/10.1093/oxfordjournals.molbev.a004046
+   URL: https://doi.org/10.1093/oxfordjournals.molbev.a004046
+   Open Access: Yes
+
+9. Questioning the evidence for Earth's oldest fossils
+   Authors: Martin D. Brasier, Owen R. Green, A. P. Jephcoat, Annette Kleppe, Martin J. Van Kranendonk
+   Year: 2002
+   Citations: 942
+   Source: Nature
+   DOI: https://doi.org/10.1038/416076a
+   URL: https://doi.org/10.1038/416076a
+   Open Access: No
+
+10. Prebiotic Systems Chemistry: New Perspectives for the Origins of Life
+   Authors: Kepa Ruiz‐Mirazo, Carlos Briones, Andrés de la Escosura
+   Year: 2013
+   Citations: 847
+   Source: Chemical Reviews
+   DOI: https://doi.org/10.1021/cr2004844
+   URL: https://doi.org/10.1021/cr2004844
+   Open Access: No
+
+11. Tuning clathrate hydrates for hydrogen storage
+   Authors: Huen Lee, Jong-Won Lee, Do Youn Kim, Jeasung Park, Yutaek Seo
+   Year: 2005
+   Citations: 814
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature03457
+   URL: https://doi.org/10.1038/nature03457
+   Open Access: No
+
+12. Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series
+   Authors: Daniel Foreman-Mackey, Eric Agol, Sivaram Ambikasaran, Ruth Angus
+   Year: 2017
+   Citations: 811
+   Source: The Astronomical Journal
+   DOI: https://doi.org/10.3847/1538-3881/aa9332
+   URL: https://doi.org/10.3847/1538-3881/aa9332
+   Open Access: Yes
+
+13. Amino acids from ultraviolet irradiation of interstellar ice analogues
+   Authors: G. M. Muñoz, Uwe J. Meierhenrich, W. A. Schutte, Bernard Barbier, Almudena Arcones
+   Year: 2002
+   Citations: 784
+   Source: Nature
+   DOI: https://doi.org/10.1038/416403a
+   URL: https://doi.org/10.1038/416403a
+   Open Access: No
+
+14. Prevalence of Earth-size planets orbiting Sun-like stars
+   Authors: Erik A. Petigura, Andrew W. Howard, Geoffrey W. Marcy
+   Year: 2013
+   Citations: 760
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.1319909110
+   URL: https://doi.org/10.1073/pnas.1319909110
+   Open Access: Yes
+
+15. Mars Science Laboratory Mission and Science Investigation
+   Authors: J. P. Grotzinger, J. A. Crisp, A. R. Vasavada, Robert C. Anderson, Charles J. Baker
+   Year: 2012
+   Citations: 753
+   Source: Space Science Reviews
+   DOI: https://doi.org/10.1007/s11214-012-9892-2
+   URL: https://doi.org/10.1007/s11214-012-9892-2
+   Open Access: Yes
+
+16. Principles of Planetary Climate
+   Authors: Raymond T. Pierrehumbert
+   Year: 2010
+   Citations: 750
+   Source: Unknown
+   DOI: https://doi.org/10.1017/cbo9780511780783
+   URL: https://doi.org/10.1017/cbo9780511780783
+   Open Access: No
+
+17. Racemic amino acids from the ultraviolet photolysis of interstellar ice analogues
+   Authors: Max P. Bernstein, Jason P. Dworkin, Scott A. Sandford, George Cooper, L. J. Allamandola
+   Year: 2002
+   Citations: 743
+   Source: Nature
+   DOI: https://doi.org/10.1038/416401a
+   URL: https://doi.org/10.1038/416401a
+   Open Access: No
+
+18. Microbial lithification in marine stromatolites and hypersaline mats
+   Authors: Christophe Dupraz, Pieter T. Visscher
+   Year: 2005
+   Citations: 736
+   Source: Trends in Microbiology
+   DOI: https://doi.org/10.1016/j.tim.2005.07.008
+   URL: https://doi.org/10.1016/j.tim.2005.07.008
+   Open Access: Yes
+
+19. Iron-Oxidizing Bacteria: An Environmental and Genomic Perspective
+   Authors: David Emerson, Emily J. Fleming, Joyce McBeth
+   Year: 2010
+   Citations: 736
+   Source: Annual Review of Microbiology
+   DOI: https://doi.org/10.1146/annurev.micro.112408.134208
+   URL: https://doi.org/10.1146/annurev.micro.112408.134208
+   Open Access: No
+
+20. Ce and Eu anomalies in zircon as proxies for the oxidation state of magmas
+   Authors: Dustin Trail, E. Bruce Watson, Nicholas D. Tailby
+   Year: 2012
+   Citations: 688
+   Source: Geochimica et Cosmochimica Acta
+   DOI: https://doi.org/10.1016/j.gca.2012.08.032
+   URL: https://doi.org/10.1016/j.gca.2012.08.032
+   Open Access: No
+
+21. Planetary Radii across Five Orders of Magnitude in Mass and Stellar Insolation: Application to Transits
+   Authors: Jonathan J. Fortney, Mark S. Marley, Jason W. Barnes
+   Year: 2007
+   Citations: 682
+   Source: The Astrophysical Journal
+   DOI: https://doi.org/10.1086/512120
+   URL: https://doi.org/10.1086/512120
+   Open Access: Yes
+
+22. Volatile content of lunar volcanic glasses and the presence of water in the Moon’s interior
+   Authors: A. E. Saal, E. H. Hauri, Mauro Lo Cascio, James A. Van Orman, Malcolm C. Rutherford
+   Year: 2008
+   Citations: 651
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature07047
+   URL: https://doi.org/10.1038/nature07047
+   Open Access: No
+
+23. Axonal Self-Destruction and Neurodegeneration
+   Authors: Martin Raff, Alan V. Whitmore, John T. Finn
+   Year: 2002
+   Citations: 642
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1068613
+   URL: https://doi.org/10.1126/science.1068613
+   Open Access: No
+
+24. Beyond the Calvin Cycle: Autotrophic Carbon Fixation in the Ocean
+   Authors: Michael Hügler, Stefan M. Sievert
+   Year: 2010
+   Citations: 621
+   Source: Annual Review of Marine Science
+   DOI: https://doi.org/10.1146/annurev-marine-120709-142712
+   URL: https://doi.org/10.1146/annurev-marine-120709-142712
+   Open Access: No
+
+25. Peptide–nucleotide microdroplets as a step towards a membrane-free protocell model
+   Authors: Shogo Koga, David Williams, Adam W. Perriman, Stephen Mann
+   Year: 2011
+   Citations: 609
+   Source: Nature Chemistry
+   DOI: https://doi.org/10.1038/nchem.1110
+   URL: https://doi.org/10.1038/nchem.1110
+   Open Access: No
