@@ -35,7 +35,7 @@ repos:
     -   id: markdownlint
         args: [--fix]
 -   repo: https://github.com/astral-sh/uv-pre-commit
-    rev: 0.9.26
+    rev: 0.9.28
     hooks:
     -   id: uv-lock
 -   repo: https://github.com/rhysd/actionlint
