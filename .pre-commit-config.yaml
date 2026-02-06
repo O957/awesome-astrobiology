@@ -6,7 +6,7 @@ ci:
     autofix_prs: true
     autoupdate_branch: ""
     autoupdate_commit_msg: "[pre-commit.ci] pre-commit autoupdate"
-    autoupdate_schedule: weekly
+    autoupdate_schedule: monthly
     skip: []
     submodules: false
 repos:
@@ -35,7 +35,7 @@ repos:
     -   id: markdownlint
         args: [--fix]
 -   repo: https://github.com/astral-sh/uv-pre-commit
-    rev: 0.9.26
+    rev: 0.9.28
     hooks:
     -   id: uv-lock
 -   repo: https://github.com/rhysd/actionlint
@@ -48,7 +48,7 @@ repos:
     -   id: typos
         args: ["--force-exclude"]
 -   repo: https://github.com/commitizen-tools/commitizen
-    rev: v4.11.6
+    rev: v4.12.1
     hooks:
     -   id: commitizen
 -   repo: https://github.com/jorisroovers/gitlint
