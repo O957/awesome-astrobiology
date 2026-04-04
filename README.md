@@ -1,142 +1,167 @@
 # Awesome Astrobiology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-_A curated list of awesome resources on astrobiology[^definition_astrobiology]._
+_A curated[^curation_details] list of awesome resources on astrobiology[^definition_astrobiology]._
 
-[^definition_astrobiology]: (from Wikipedia) **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] As a discipline, astrobiology is founded on the premise that life may exist beyond Earth. [[3](https://en.wikipedia.org/wiki/Astrobiology#cite_note-3)]. Research in astrobiology comprises three main areas: the study of [habitable environments](https://en.wikipedia.org/wiki/Planetary_habitability "Planetary habitability") in the [Solar System](https://en.wikipedia.org/wiki/Solar_System "Solar System") and beyond, the search for planetary [biosignatures](https://en.wikipedia.org/wiki/Biosignatures "Biosignatures") of past or present extraterrestrial life, and the study of the [origin](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis") and [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell") of life on Earth. The field of astrobiology has its origins in the 20th century with the advent of [space exploration](https://en.wikipedia.org/wiki/Space_exploration "Space exploration") and the discovery of [exoplanets](https://en.wikipedia.org/wiki/Exoplanets "Exoplanets"). Early astrobiology research focused on the search for extraterrestrial life and the study of the potential for life to exist on other planets. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] In the 1960s and 1970s, NASA began its astrobiology pursuits within the [Viking program](https://en.wikipedia.org/wiki/Viking_program "Viking program"), which was the first US mission to land on Mars and search for [signs of life](https://en.wikipedia.org/wiki/Viking_biological_experiments "Viking biological experiments"). [[4](https://en.wikipedia.org/wiki/Astrobiology#cite_note-4)] This mission, along with other early space exploration missions, laid the foundation for the development of astrobiology as a discipline. CITATION: Wikipedia contributors. "Astrobiology." Wikipedia. Last modified October 20, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Astrobiology>.
+[^definition_astrobiology]: (from Wikipedia, see citation at the bottom) **Astrobiology** (also **xenology** or **exobiology**) is a scientific field within the [life](https://en.wikipedia.org/wiki/List_of_life_sciences "List of life sciences") and [environmental sciences](https://en.wikipedia.org/wiki/Environmental_science "Environmental science") that studies the [origins](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis"), [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell"), distribution, and future of [life](https://en.wikipedia.org/wiki/Life "Life") in the [universe](https://en.wikipedia.org/wiki/Universe "Universe") by investigating its deterministic conditions and contingent events. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] As a discipline, astrobiology is founded on the premise that life may exist beyond Earth. [[3](https://en.wikipedia.org/wiki/Astrobiology#cite_note-3)]. Research in astrobiology comprises three main areas: the study of [habitable environments](https://en.wikipedia.org/wiki/Planetary_habitability "Planetary habitability") in the [Solar System](https://en.wikipedia.org/wiki/Solar_System "Solar System") and beyond, the search for planetary [biosignatures](https://en.wikipedia.org/wiki/Biosignatures "Biosignatures") of past or present extraterrestrial life, and the study of the [origin](https://en.wikipedia.org/wiki/Abiogenesis "Abiogenesis") and [early evolution](https://en.wikipedia.org/wiki/Protocell "Protocell") of life on Earth. The field of astrobiology has its origins in the 20th century with the advent of [space exploration](https://en.wikipedia.org/wiki/Space_exploration "Space exploration") and the discovery of [exoplanets](https://en.wikipedia.org/wiki/Exoplanets "Exoplanets"). Early astrobiology research focused on the search for extraterrestrial life and the study of the potential for life to exist on other planets. [[2](https://en.wikipedia.org/wiki/Astrobiology#cite_note-about-2)] In the 1960s and 1970s, NASA began its astrobiology pursuits within the [Viking program](https://en.wikipedia.org/wiki/Viking_program "Viking program"), which was the first US mission to land on Mars and search for [signs of life](https://en.wikipedia.org/wiki/Viking_biological_experiments "Viking biological experiments"). [[4](https://en.wikipedia.org/wiki/Astrobiology#cite_note-4)] This mission, along with other early space exploration missions, laid the foundation for the development of astrobiology as a discipline. CITATION: Wikipedia contributors. "Astrobiology." Wikipedia. Last modified October 20, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Astrobiology>.
 
 ![](./assets/astrobiology.jpg) [^image_attribution]
 
 [^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/a-red-crab-crawling-in-the-sand-hapGkr3_-Lo>. Image Description: "a red crab crawling in the sand". Image Photographer: [Ryan Le](https://unsplash.com/@ryan_le).
 
-> [!NOTE]
->
-> This list follows specific scoping guidelines. The **Books** section primarily contains textbooks. **Organizations** is divided into GitHub organizations and non-GitHub organizations. **Researchers** exclusively features researcher GitHub profiles. A **Reading Lists** section was chosen over individual papers, as managing the volume of papers on the topic at hand in a single list in untenable. **Repositories** targets larger work on GitHub and excludes, for example, standalone code for papers. **Datasets** includes only publicly accessible data. **Software** features notable tools, libraries, and frameworks not available on GitHub. **Websites** covers informational sites, news sources, and community hubs. **Educational Resources** includes tutorials, videos, and other learning materials.
+[^curation_details]: This list follows specific scoping guidelines. The **Databases & Data Repositories** section includes NASA astrobiology databases and planetary science databases. **NASA Missions & Programs** covers current, upcoming, and past missions. **Organizations & Research Centers** features NASA centers and international astrobiology organizations. **Journals & Publications** includes primary and related journals. **Educational Resources** includes online courses, books, video content, and news sources. **Exoplanet Catalogs** lists dedicated exoplanet databases. **Tools & Software** covers observation planning, data analysis, and habitability calculators.
 
 ## Contents
 
-- [Books](#books)
-- [Journals](#journals)
-- [Conferences](#conferences)
-- [Organizations](#organizations)
-- [Researchers](#researchers)
-- [Courses](#courses)
-- [Reading Lists](#reading-lists)
-- [Repositories](#repositories)
-- [Datasets](#datasets)
-- [Software](#software)
-- [Websites](#websites)
+- [Databases & Data Repositories](#databases--data-repositories)
+- [NASA Missions & Programs](#nasa-missions--programs)
+- [Organizations & Research Centers](#organizations--research-centers)
+- [Journals & Publications](#journals--publications)
 - [Educational Resources](#educational-resources)
-- [Contribution](#contribution)
-- [License](#license)
+- [Exoplanet Catalogs](#exoplanet-catalogs)
+- [Tools & Software](#tools--software)
+- [People](#people)
+- [Related Awesome Lists](#related-awesome-lists)
 
-## Books
+## Databases & Data Repositories
 
-1. [Astrobiology: A Very Short Introduction](https://global.oup.com/academic/product/astrobiology-a-very-short-introduction-9780198722762): David Catling's accessible overview.
-2. [Life in the Universe](https://www.pearson.com/us/higher-education/program/Bennett-Life-in-the-Universe-4th-Edition/PGM1882320.html): Bennett and Shostak comprehensive textbook.
-3. [An Introduction to Astrobiology](https://www.cambridge.org/core/books/introduction-to-astrobiology/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Iain Gilmour and Mark Sephton editors.
-4. [The Vital Question: Energy, Evolution, and the Origins of Complex Life](https://www.amazon.com/Vital-Question-Evolution-Origins-Complex/dp/0393352978): Nick Lane on bioenergetics and evolution.
-5. [Life's Solution: Inevitable Humans in a Lonely Universe](https://www.cambridge.org/core/books/lifes-solution/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Simon Conway Morris on convergent evolution.
-6. [Rare Earth: Why Complex Life Is Uncommon in the Universe](https://www.springer.com/gp/book/9780387952895): Ward and Brownlee hypothesis.
+### NASA Astrobiology Databases
 
-## Journals
+1. [AHED (Astrobiology Habitable Environments Database)](https://ahed.nasa.gov): NASA's centralized open-source digital library for astrobiology research data with standardized ARMS metadata.
+2. [NASA Life Detection Knowledge Base (LDKB)](https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ldkb/): Community resource synthesizing biosignature information and detection strategies.
+3. [NASA Astrobiology Program Data](https://science.nasa.gov/astrobiology/): Research publications, mission data, and program resources.
 
-1. [Astrobiology](https://www.liebertpub.com/journal/ast): Premier journal for astrobiology research.
-2. [International Journal of Astrobiology](https://www.cambridge.org/core/journals/international-journal-of-astrobiology): Multidisciplinary astrobiology journal.
-3. [Origins of Life and Evolution of Biospheres](https://www.springer.com/journal/11084): Origins of life research.
-4. [Life](https://www.mdpi.com/journal/life): Open access journal covering life sciences and astrobiology.
+### Planetary Science Databases
 
-## Conferences
+1. [NASA Planetary Data System (PDS)](https://pds.nasa.gov): Archive of planetary mission data (images, spectra, derived products).
+2. [Astromaterials Data System](https://www.lpi.usra.edu/adsearch/): Lunar samples, meteorites, cosmic dust catalog.
 
-1. [Astrobiology Science Conference (AbSciCon)](https://www.agu.org/abscicon): NASA's major astrobiology conference held biennially.
-2. [European Astrobiology Network Association (EANA) Conference](https://www.eana-net.eu/): Annual European astrobiology meeting.
-3. [Astrobiology Graduate Conference (AbGradCon)](https://abgradcon.org/): Annual student-organized astrobiology conference.
-4. [Gordon Research Conference on Origins of Life](https://www.grc.org/): Biennial meeting on life's origins.
-5. [International Society for the Study of the Origin of Life (ISSOL) Conference](https://issol.org/): Triennial conference on origins of life research.
+## NASA Missions & Programs
 
-## Organizations
+### Current & Upcoming Missions
 
-### GitHub Organizations
+1. [Mars 2020 Perseverance Rover](https://mars.nasa.gov/mars2020/): Astrobiology-focused rover collecting samples for potential return, searching for ancient microbial life.
+2. [Europa Clipper](https://europa.nasa.gov): Mission to investigate Jupiter's moon Europa for subsurface ocean habitability (launch 2024, arrival 2030).
+3. [Dragonfly](https://dragonfly.jhuapl.edu): Rotorcraft mission to Titan investigating prebiotic chemistry and habitability (launch 2027, arrival 2034).
+4. [James Webb Space Telescope (JWST)](https://jwst.nasa.gov): Exoplanet atmosphere characterization for biosignatures.
+5. [Nancy Grace Roman Space Telescope](https://roman.gsfc.nasa.gov): Direct imaging of exoplanets (launch 2027).
 
-1. [UCBerkeleySETI](https://github.com/UCBerkeleySETI): UC Berkeley SETI Research Center repositories.
-2. [Virtual Planetary Laboratory](https://github.com/VirtualPlanetaryLaboratory): Tools for exoplanet modeling and biosignatures.
+### Past Missions
 
-### Other Organizations
+1. [Viking 1 & 2](https://science.nasa.gov/mission/viking/): First life detection experiments on Mars (1976).
+2. [Galileo](https://science.nasa.gov/mission/galileo/): Jupiter system exploration, discovered subsurface oceans on Europa.
+3. [Cassini-Huygens](https://science.nasa.gov/mission/cassini/): Saturn system, found organic compounds on Enceladus and Titan.
 
-1. [NASA Astrobiology Institute](https://astrobiology.nasa.gov/): Leading astrobiology research organization.
-2. [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence and astrobiology.
-3. [European Astrobiology Network Association (EANA)](https://www.eana-net.eu/): European astrobiology community.
-4. [AbGradCon](https://abgradcon.org/): Astrobiology Graduate Conference community.
-5. [UK Centre for Astrobiology](https://www.astrobiology.ac.uk/): Multidisciplinary astrobiology research.
+## Organizations & Research Centers
 
-## Researchers
+### NASA Centers
 
-1. [Rory Barnes](https://github.com/RoryBarnes): UW Associate Professor of Astronomy and Astrobiology; creator of VPLanet.
+1. [NASA Astrobiology Institute (NAI)](https://astrobiology.nasa.gov/nai/): Virtual distributed organization of competitively-selected research teams (established 1998).
+2. [NASA Ames Astrobiology](https://www.nasa.gov/ames/astrobiology): Home to SETI Institute partnerships, AHED development.
+3. [NASA Goddard Astrobiology Lab](https://science.gsfc.nasa.gov/astrobiology/): Laboratory and theoretical astrobiology research.
+4. [JPL Center for Life Detection Science](https://www.jpl.nasa.gov/astrobiology): Mission technology development for biosignature detection.
 
-## Courses
+### International Organizations
 
-1. [Astrobiology and the Search for Extraterrestrial Life (Coursera)](https://www.coursera.org/learn/astrobiology): University of Edinburgh course covering astrobiology fundamentals.
-2. [Introduction to Astrobiology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/): Free MIT biology course covering origins of life.
-3. [Astrobiology: Exploring Other Worlds (Coursera)](https://www.coursera.org/learn/astrobiology-exploring-other-worlds): University of Arizona course on planetary habitability.
-4. [Imagining Other Earths (Princeton/Coursera)](https://www.coursera.org/learn/life-on-other-planets): Princeton course on exoplanets and life detection.
-5. [The Search for Exoplanets: What Astronomers Know (Great Courses)](https://www.thegreatcourses.com/courses/search-for-exoplanets-what-astronomers-know): Joshua Winn's comprehensive exoplanet course.
+1. [European Astrobiology Institute (EAI)](https://www.eai-online.eu): Network of European researchers and institutions.
+2. [European Astrobiology Network Association (EANA)](https://www.eana-net.eu): Professional society with annual conferences.
+3. [Astrobiology Society of Britain (ASB)](https://www.asbiology.org.uk): UK learned society with researcher directory.
+4. [AbGradE (Astrobiologists and Graduates in Europe)](https://www.abgrade.eu): Early-career network for PhD/postdoc opportunities.
+5. [Centro de Astrobiologia (CAB) Spain](https://cab.inta-csic.es): Spanish astrobiology research center.
 
-## Reading Lists
+## Journals & Publications
 
-1. [O957's Papers](assets/o957_reading_list.md)
+### Primary Journals
 
-## Repositories
+1. [Astrobiology](https://www.liebertpub.com/journal/ast): Leading peer-reviewed journal (Mary Ann Liebert, Inc.).
+2. [International Journal of Astrobiology](https://www.cambridge.org/core/journals/international-journal-of-astrobiology): Cambridge University Press.
+3. [Nature Astrobiology Collection](https://www.nature.com/subjects/astrobiology): High-impact papers from Nature Publishing Group.
 
-1. [prebiotic-chemistry](https://github.com/nkodani/prebiotic-chemistry): Computational models of prebiotic reactions.
-2. [origin-of-life-models](https://github.com/syntheticbiology/origin-models): Simulations of early replicators.
-3. [extremophile-db](https://github.com/lifewatch/extremophile-database): Database of extremophilic organisms.
-4. [habitability-models](https://github.com/astrobiology/habitability): Models of life under extreme conditions.
-5. [HabitablePlanet](https://github.com/rodluger/habitableplanet): Python tools for habitability calculations.
-6. [VPLANET](https://github.com/VirtualPlanetaryLaboratory/vplanet): Virtual planetary evolution model.
-7. [clima](https://github.com/Nicholaswogan/clima): Python climate model for rocky planets.
-8. [coronagraph](https://github.com/jlustigy/coronagraph): Exoplanet direct imaging simulator.
-9. [PSG](https://psg.gsfc.nasa.gov/): Planetary Spectrum Generator for atmospheric modeling.
-10. [petitRADTRANS](https://github.com/jovian-explorer/petitRADTRANS): Radiative transfer for exoplanet atmospheres.
-11. [exoplanet](https://github.com/exoplanet-dev/exoplanet): Probabilistic modeling of exoplanet data.
-12. [BATMAN](https://github.com/lkreidberg/batman): Fast transit light curve modeling.
-13. [allesfitter](https://github.com/MNGuenther/allesfitter): Exoplanet characterization from photometry and RV.
-14. [juliet](https://github.com/nespinoza/juliet): Transiting and non-transiting exoplanetary systems.
-15. [mars-rover-autonomy](https://github.com/nasa/mars-rover): Autonomous navigation for Mars rovers.
-16. [astrobiology-instruments](https://github.com/nasa/astrobiology-tools): Data processing for astrobiology instruments.
-17. [breakthrough-listen](https://github.com/UCBerkeleySETI/breakthrough): Data processing for SETI observations.
-18. [turboSETI](https://github.com/UCBerkeleySETI/turbo_seti): Search for narrow-band signals.
-19. [setigen](https://github.com/bbrzycki/setigen): Synthetic signal generator for SETI.
+### Related Journals
 
-## Software
-
-1. [astropy](https://www.astropy.org/): Python library for astronomy.
-2. [PyMC3](https://docs.pymc.io/): Probabilistic programming for Bayesian analysis.
-3. [emcee](https://emcee.readthedocs.io/): MCMC sampler for parameter estimation.
-4. [corner.py](https://corner.readthedocs.io/): Visualization of parameter distributions.
-5. [REBOUND](https://github.com/hannorein/rebound): N-body orbital dynamics simulator.
-
-## Datasets
-
-1. [exoplanet.eu](http://exoplanet.eu/): Exoplanet encyclopedia and database.
-2. [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/): Exoplanet data and tools.
-
-## Websites
-
-1. [NASA Astrobiology](https://astrobiology.nasa.gov/): Leading astrobiology research and education.
-2. [SETI Institute](https://www.seti.org/): Search for extraterrestrial intelligence research.
-3. [Astrobiology Web](http://www.astrobiology.com/): News and educational content.
+1. [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X): Exoplanet habitability and stellar astrophysics.
+2. [The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338): Planetary habitability and biosignatures.
+3. [Frontiers in Astronomy and Space Sciences - Astrobiology](https://www.frontiersin.org/journals/astronomy-and-space-sciences/sections/astrobiology): Open access section.
+4. [Icarus](https://www.sciencedirect.com/journal/icarus): Planetary science including habitability studies.
+5. [Origins of Life and Evolution of Biospheres](https://www.springer.com/journal/11084): Origins of life research.
 
 ## Educational Resources
 
-1. [NASA Astrobiology Education](https://astrobiology.nasa.gov/education/): Educational materials and resources.
-2. [SETI Institute Courses](https://www.seti.org/education): Online courses and lectures.
-3. [Coursera Astrobiology](https://www.coursera.org/learn/astrobiology): Online course from University of Edinburgh.
+### Online Courses
 
-## Contribution
+1. [Astrobiology: Exploring Other Worlds (Coursera/University of Arizona)](https://www.coursera.org/learn/astrobiology-exploring-other-worlds): Free online course by Prof. Chris Impey.
+2. [Astrobiology and the Search for Extraterrestrial Life (edX/University of Edinburgh)](https://www.edx.org/course/astrobiology-and-the-search-for-extraterrestrial-life): Free course by Prof. Charles Cockell.
+3. [NASA Astrobiology Primer](https://astrobiology.nasa.gov/uploads/filer_public/75/c5/75c5c5d5-5f9a-4f8e-8b1e-0e1e4f8e7c5a/astrobiology_primer_v2.pdf): Comprehensive educational document.
+
+### Books
+
+1. [Astrobiology: A Very Short Introduction](https://global.oup.com/academic/product/astrobiology-a-very-short-introduction-9780198722762): David C. Catling's concise overview (2013).
+2. [Life in the Universe](https://www.pearson.com/us/higher-education/program/Bennett-Life-in-the-Universe-4th-Edition/PGM1882320.html): Jeffrey Bennett and Seth Shostak college-level textbook (4th edition).
+3. [An Astrobiology Strategy for the Search for Life in the Universe](https://nap.nationalacademies.org/catalog/25252/an-astrobiology-strategy-for-the-search-for-life-in-the-universe): National Academies report (2019).
+
+### Video Content
+
+1. [NASA Astrobiology YouTube](https://www.youtube.com/nasaastrobiology): Podcasts, lectures, mission updates.
+2. [TED Talks on Astrobiology](https://www.ted.com/topics/astrobiology): Popular science presentations.
+3. [Ologies Podcast with Alie Ward - Astrobiology Episode](https://www.alieward.com/ologies/astrobiology): Interview with Dr. Kevin Peter Hand.
+
+### News & Media
+
+1. [NASA Astrobiology News](https://astrobiology.nasa.gov/news/): Latest research and mission updates.
+2. [Astrobiology.com](https://astrobiology.com): Daily news summaries with links to original papers.
+3. [Astrobiology Magazine](https://www.astrobio.net): Historical archive (inactive but searchable).
+
+## Exoplanet Catalogs
+
+1. [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu): Official NASA catalog with 5,000+ confirmed exoplanets (includes interactive tools, bulk data downloads).
+2. [Open Exoplanet Catalogue](https://www.openexoplanetcatalogue.com): Decentralized, open-source catalogue (5,288 confirmed planets, XML format, GitHub integration).
+3. [Exoplanet.eu](https://exoplanet.eu/catalog/): European database with sortable/filterable catalogue.
+4. [PlanetS Exoplanet Catalog (DACE)](https://dace.unige.ch/exoplanets/): Curated catalog focused on transiting planets with reliable mass/radius measurements.
+5. [Habitable Worlds Catalog (HWC)](https://phl.upr.edu/hwc): PHL @ UPR Arecibo catalog replacing the Habitable Exoplanets Catalog (2024).
+
+## Tools & Software
+
+### Observation Planning
+
+1. [JWST Exposure Time Calculator](https://jwst.etc.stsci.edu): Plan exoplanet atmosphere observations.
+2. [Exoplanet Transit Database](http://var2.astro.cz/ETD/): Predict transit times for follow-up observations.
+
+### Data Analysis
+
+1. [Exoplanet Package (Python)](https://docs.exoplanet.codes): Probabilistic models for exoplanet data.
+2. [PyTransit](https://github.com/hpparvi/PyTransit): Fast exoplanet transit light curve modeling.
+3. [BATMAN (Bad-Ass Transit Model cAlculatioN)](https://www.cfa.harvard.edu/~lkreidberg/batman/): Python package for transit modeling.
+
+### Habitability Calculators
+
+1. [Habitable Zone Calculator](http://depts.washington.edu/naivpl/content/hz-calculator): University of Washington tool for determining habitable zones.
+2. [Planetary Spectrum Generator](https://psg.gsfc.nasa.gov): NASA tool simulating planetary spectra.
+
+## People
+
+- [Rory Barnes](https://github.com/RoryBarnes) - University of Washington. Lead developer of VPLanet, a virtual planet simulator for modeling planetary habitability.
+- [Mike Lee (AstrobioMike)](https://github.com/AstrobioMike) - National Biodefense Analysis and Countermeasures Center. Developer of GToTree and open bioinformatics educational resources for astrobiologists.
+- [Arkadiy Garber](https://github.com/Arkadiy-Garber) - Arizona State University. Developer of FeGenie for iron-related gene identification in microbial genomes relevant to geobiology.
+- [Guadalupe Tovar Mendoza](https://github.com/lupitatovar) - Johns Hopkins University. Studies stellar magnetic activity on low-mass stars and its impact on exoplanet habitability.
+- [Caitlin Casar](https://github.com/CaitlinCasar) - Northwestern University. Characterized microbial life in the Deep Mine Microbial Observatory, a Mars subsurface analog site.
+- [Celia Blanco](https://celiablanco.github.io/) - Centro de Astrobiologia (CAB), Spain. Computational research on the emergence and evolution of complex biological systems.
+
+## Related Awesome Lists
+
+- [Awesome Space](https://github.com/orbitalindex/awesome-space) - Space-related packages and resources maintained by The Orbital Index.
+- [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy) - Curated list of astronomy projects and resources.
+- [Awesome Paleontology](https://github.com/O957/awesome-paleontology) - Paleontology resources covering the history of life on Earth.
+- [Awesome Geology](https://github.com/O957/awesome-geology) - Geology resources with planetary geology overlap.
+
+## Contributing
 
 Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
+## Code of Conduct
+
+Please see the [code of conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [O957](https://github.com/O957) has waived all copyright and related or neighboring rights to this work.
